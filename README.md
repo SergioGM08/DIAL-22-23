@@ -1,2 +1,3 @@
 # DIAL-22-23
-Prácticas de informática en Dafny, C++ y Python
+Repositorio para las prácticas de Diseño de algoritmos (DIAL) de la UCM en el curso 22-23
+Lenguajes: Dafny, Python y C++
